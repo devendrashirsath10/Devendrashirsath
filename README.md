@@ -4,7 +4,7 @@ Hi 👋, I'm Devendra
 
 Devendrashirsath
 
-💬 Ask me about Python, Excel, Power BI, SQL  
+💬 Ask me about Python, SQL, Excel, Power BI
 
 📫 Reach me at devendrashirsath10@gmail.com
 
